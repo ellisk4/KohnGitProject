@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hi, how are you doing?");
+        System.out.println("This is a cool program");
         System.out.println("Hello gurt");
         int x = 5;
         int y = 10;
