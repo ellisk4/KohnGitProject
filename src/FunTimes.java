@@ -2,7 +2,14 @@ public class FunTimes {
     public static void main(String[] args) {
         int apples = 15;
         int bananas = 20;
+        boolean isRaining = true;
+
         System.out.println("I have " + apples + " apples and " + bananas + " bananas");
+        if (isRaining == true){
+            System.out.println("ITS RAINING!");
+            System.out.println("MY FRUITS ARE GONNA GET WASHED AWAY :((");
+        }
+        System.out.println("YAY IT'S NOT RAINING");
         if (apples > bananas){
             System.out.println("I have more apples than bananas");
         } else if (apples == bananas){
