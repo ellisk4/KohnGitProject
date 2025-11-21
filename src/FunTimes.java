@@ -17,5 +17,6 @@ public class FunTimes {
         } else {
             System.out.println("I have more bananas than apples");
         }
+        System.out.println("This is a change from home! WoW :D");
     }
 }
